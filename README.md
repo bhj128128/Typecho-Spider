@@ -1,6 +1,6 @@
 # Typecho-Spider
 
-开发思路视频已上传bilibili——[Python爬取Typecho博客的所有文章](https://www.bilibili.com/video/BV1PA411E7N4)
+开发思路视频已上传bilibili—[Python爬取Typecho博客的所有文章](https://www.bilibili.com/video/BV1PA411E7N4)
 
 针对Typecho博客的爬虫，将自己博客的文章保存到本地，以所有分类名建立文件夹，将不同类别的文章保存到不同文件夹中，并且以文章标题作为文件名
 
